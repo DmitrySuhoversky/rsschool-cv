@@ -15,6 +15,6 @@ I want to be iOS Developer because I really like it! I like Apple and I want to 
 I Watched lessons about Swift and Objective-C on YouTube and did some tasks from the lessons.
 
 ### _Education:_ 
-BNTU(2012-2017) - engineer 
+Belarusian National Technical University (2012-2017) - engineer 
 
 ### _English Level:_ A2
